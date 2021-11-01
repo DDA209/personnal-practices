@@ -6,8 +6,7 @@
   1. [Folders naming](#folders-naming)
   1. [Files naming](#files-naming)
   1. [Git branch naming](#git-branch-naming)
-
-  ### [Glossary](#glossary)
+  ### [Glossary](#glossary-1)
 
 ## Naming
 All naming practices in my new projects
@@ -49,5 +48,5 @@ All naming practices in my new projects
         files example:
         common_fields.js
       
-## glossary
+## Glossary
 - Folder: logical file container (not egal to directory) *e.g ./that_s_a_folder/*
