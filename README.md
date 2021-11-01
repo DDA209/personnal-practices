@@ -4,5 +4,5 @@
 
 ### 1. [Naming](#naming):
   #### 1. [Folders naming](#folders-naming)
-  * [Files naming](#files-naming)
+  #### 1.  [Files naming](#files-naming)
 
