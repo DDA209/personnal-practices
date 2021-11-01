@@ -3,17 +3,17 @@
 ## Summary
 
 ### 1. [Naming](#naming):
-    a. [Folders naming](#folders-naming)
-    a. [Files naming](#files-naming)
-    a. [Git branch naming](#git-branch-naming)
+  a. [Folders naming](#folders-naming)
+  a. [Files naming](#files-naming)
+  a. [Git branch naming](#git-branch-naming)
 
 ### [Glossary](#glossary)
 
-    ## Naming
-        All naming practices in my new projects
+  ## Naming
+  All naming practices in my new projects
 
-    ### Folders naming
-    Folder names are written according to the following guidelines:
+  ### Folders naming
+  Folder names are written according to the following guidelines:
     - **Only with alphabetical and non accentuated letter**
     - **Never start with a number**, number can start from the second letter
     - Start with a lowercase letter, except:
