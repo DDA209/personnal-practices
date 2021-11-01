@@ -49,5 +49,5 @@ All naming practices in my new projects
         files example:
         common_fields.js
       
-## Glossary
+## glossary
 - Folder: logical file container (not egal to directory) *e.g ./that_s_a_folder/*
