@@ -3,8 +3,8 @@
 ## Summary
 
 ### 1. [Naming](#naming):
-  1.1. [Folders naming](#folders-naming)
-  1.1. [Files naming](#files-naming)
+  1. [Folders naming](#folders-naming)
+  1. [Files naming](#files-naming)
 
 ## Naming
 All naming practices in my new projects
