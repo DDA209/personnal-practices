@@ -13,7 +13,7 @@
   All naming practices in my new projects
 
   ### Folders naming
-  Folder names are written according to the following guidelines:
+  Folders names are written according to the following guidelines:
   - Only with alphabetical and non accentuated letter
   - Never start with a number, number can start from the second letter
   - Start with a lowercase letter
@@ -32,8 +32,8 @@
         ./omq/components/core/buttons/small_button
         ./omq/components/core/buttons/big_button
 
-  ### Fildes naming
-  Folder names are written according to the following guidelines:
+  ### Files naming
+  Files names are written according to the following guidelines:
   - Only with alphabetical and non accentuated letter
   - Never start with a number, number can start from the second letter
   - Start with a lowercase letter, except:
