@@ -2,15 +2,15 @@
 
 ## Summary
 
-### 1. [Naming](#naming):
+  ### 1. [Naming](#naming):
   1. [Folders naming](#folders-naming)
   1. [Files naming](#files-naming)
   1. [Git branch naming](#git-branch-naming)
 
-### [Glossary](#glossary)
+  ### [Glossary](#glossary)
 
-  ## Naming
-  All naming practices in my new projects
+## Naming
+All naming practices in my new projects
 
   ### Folders naming
   Folders names are written according to the following guidelines:
@@ -49,5 +49,5 @@
         files example:
         common_fields.js
       
-### [Glossary]
+## Glossary
 - Folder: logical file container (not egal to directory) *e.g ./that_s_a_folder/*
