@@ -27,9 +27,10 @@
         folders tree example:
         ./omq
         ./omq/components
-        ./omq/components/buttons
-        ./omq/components/buttons/small_button
-        ./omq/components/buttons/big_button
+        ./omq/components/core
+        ./omq/components/core/buttons
+        ./omq/components/core/buttons/small_button
+        ./omq/components/core/buttons/big_button
 
   ### Fildes naming
   Folder names are written according to the following guidelines:
