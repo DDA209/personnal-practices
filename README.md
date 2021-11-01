@@ -1,8 +1,8 @@
-#Developpement personnal practices
+# Developpement personnal practices
 
-##Summary
+## Summary
 
-1.[Naming](#naming):
-  1.[Folders naming](#folders-naming)
-  1.[Files naming](#files-naming)
+1. [Naming](#naming):
+  1. [Folders naming](#folders-naming)
+  1. [Files naming](#files-naming)
 
