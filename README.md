@@ -24,13 +24,13 @@
   - Extensions are strongly discouraged and should be used for specific and documented purposes
   - use plural if folder contain many elements described by it's name
 
-``folders tree example:
-./omq
-./omq/components
-./omq/components/buttons
-./omq/components/buttons/small_button
-./omq/components/buttons/big_button
-``
+    ``folders tree example:
+    ./omq
+    ./omq/components
+    ./omq/components/buttons
+    ./omq/components/buttons/small_button
+    ./omq/components/buttons/big_button
+    ``
 
   ### Fildes naming
   Folder names are written according to the following guidelines:
@@ -46,8 +46,8 @@
   - Usage of multiple dots is strongly discouraged and must be used for specific and documented purposes
   - Plural usage must be defined
 
-``files example:
-common_fields.js
-``
+    ``files example:
+    common_fields.js
+    ``
 ### Glossary
 - Folder: logical file container (not egal to directory) *e.g ./that_s_a_folder/*
