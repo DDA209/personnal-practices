@@ -3,9 +3,9 @@
 ## Summary
 
 ### 1. [Naming](#naming):
-  a. [Folders naming](#folders-naming)
-  a. [Files naming](#files-naming)
-  a. [Git branch naming](#git-branch-naming)
+  1. [Folders naming](#folders-naming)
+  1. [Files naming](#files-naming)
+  1. [Git branch naming](#git-branch-naming)
 
 ### [Glossary](#glossary)
 
