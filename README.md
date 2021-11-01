@@ -49,5 +49,5 @@
         files example:
         common_fields.js
       
-### Glossary
+### [Glossary]
 - Folder: logical file container (not egal to directory) *e.g ./that_s_a_folder/*
