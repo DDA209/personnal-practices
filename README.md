@@ -14,21 +14,40 @@
 
   ### Folders naming
   Folder names are written according to the following guidelines:
-  - **Only with alphabetical and non accentuated letter**
-  - **Never start with a number**, number can start from the second letter
-  - Start with a lowercase letter, except:
-    - **Components folders** who start with a uppercase 
-  - Use **snake case** 🐍 if named with many words
+  - Only with alphabetical and non accentuated letter
+  - Never start with a number, number can start from the second letter
+  - Start with a lowercase letter
+  - Use snake case 🐍 if named with many words
   - Special characters are replaced with *underscores* _
-  - Naming should be descriptive and consistent in the context of the use of th folder
+  - Initials and acronyms should be written in lowercase
+  - Naming should be descriptive and consistent in the context of the use of the folder
+  - Extensions are strongly discouraged and should be used for specific and documented purposes
+  - use plural if folder contain many elements described by it's name
 
-``example:
-my_folder
-it_s_a_folder
-
-
-
+``folders tree example:
+./omq
+./omq/components
+./omq/components/buttons
+./omq/components/buttons/small_button
+./omq/components/buttons/big_button
 ``
 
+  ### Fildes naming
+  Folder names are written according to the following guidelines:
+  - Only with alphabetical and non accentuated letter
+  - Never start with a number, number can start from the second letter
+  - Start with a lowercase letter, except:
+    - Components folders** who start with an uppercase 
+  - Use snake case 🐍 if named with many words
+  - Special characters are replaced with *underscores* _
+  - Initials and acronyms should be written in lowercase
+  - Naming should be descriptive and consistent in the context of the use of the file
+  - Naming must contain only one dot, it preced the file extension
+  - Usage of multiple dots is strongly discouraged and must be used for specific and documented purposes
+  - Plural usage must be defined
+
+``files example:
+common_fields.js
+``
 ### Glossary
 - Folder: logical file container (not egal to directory) *e.g ./that_s_a_folder/*
