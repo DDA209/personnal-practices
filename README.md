@@ -49,4 +49,4 @@ All naming practices in my new projects
         common_fields.js
       
 ## Glossary
-- Folder: logical file container (not egal to directory) *e.g ./that_s_a_folder/*
+- ####Folder####: logical file container (not egal to directory) *e.g ./that_s_a_folder/*
