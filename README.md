@@ -12,7 +12,7 @@
 All naming practices in my new projects
 
   ### Folders naming
-  Folders names are written according to the following guidelines:
+  [Folders](#folder) names are written according to the following guidelines:
   - Only with alphabetical and non accentuated letter
   - Never start with a number, number can start from the second letter
   - Start with a lowercase letter
