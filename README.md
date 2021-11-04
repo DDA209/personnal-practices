@@ -17,7 +17,7 @@ All naming practices in my new projects
   - Never start with a number, number can start from the second letter
   - Start with a lowercase letter
   - Use snake case 🐍 if named with many words
-  - Special characters are replaced with *underscores* _
+  - Special characters are replaced with *dash* -
   - Initials and acronyms should be written in lowercase
   - Naming should be descriptive and consistent in the context of the use of the folder
   - Extensions are strongly discouraged and should be used for specific and documented purposes
@@ -28,8 +28,8 @@ All naming practices in my new projects
         ./omq/components
         ./omq/components/core
         ./omq/components/core/buttons
-        ./omq/components/core/buttons/small_button
-        ./omq/components/core/buttons/big_button
+        ./omq/components/core/buttons/small-button
+        ./omq/components/core/buttons/big-button
 
   ### Files naming
   Files names are written according to the following guidelines:
@@ -37,8 +37,9 @@ All naming practices in my new projects
   - Never start with a number, number can start from the second letter
   - Start with a lowercase letter, except:
     - Components folders** who start with an uppercase 
+    - 
   - Use snake case 🐍 if named with many words
-  - Special characters are replaced with *underscores* _
+  - Special characters are replaced with *dash* -
   - Initials and acronyms should be written in lowercase
   - Naming should be descriptive and consistent in the context of the use of the file
   - Naming must contain only one dot, it preced the file extension
@@ -46,8 +47,8 @@ All naming practices in my new projects
   - Plural usage must be defined
 
         files example:
-        common_fields.js
+        common-fields.js
       
 ## Glossary
 #### Folder
-logical file container (not egal to directory) *e.g ./that_s_a_folder/*
+logical file container (not egal to directory) *e.g ./that-s-a-folder/* or *D:\datas\an-amzing-project\that-s-a-folder\*
