@@ -39,7 +39,7 @@ All naming practices in my new projects
     - components, 
     - models and
     - other files for specific and documented purposes
-    who start with an uppercase 
+  who start with an uppercase 
   - Use snake case 🐍 if named with many words
   - Special characters are replaced with *dash* **-**
   - Initials and acronyms should be written in lowercase
