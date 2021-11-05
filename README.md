@@ -17,7 +17,7 @@ All naming practices in my new projects
   - Never start with a number, number can start from the second letter
   - Start with a lowercase letter
   - Use snake case 🐍 if named with many words
-  - Special characters are replaced with *dash* -
+  - Special characters are replaced with *dash* **-**
   - Initials and acronyms should be written in lowercase
   - Naming should be descriptive and consistent in the context of the use of the folder
   - Extensions are strongly discouraged and should be used for specific and documented purposes
@@ -39,7 +39,7 @@ All naming practices in my new projects
     - Components folders** who start with an uppercase 
     - 
   - Use snake case 🐍 if named with many words
-  - Special characters are replaced with *dash* -
+  - Special characters are replaced with *dash* **-**
   - Initials and acronyms should be written in lowercase
   - Naming should be descriptive and consistent in the context of the use of the file
   - Naming must contain only one dot, it preced the file extension
