@@ -20,7 +20,7 @@ All naming practices in my new projects
   - Special characters are replaced with *dash* **-**
   - Initials and acronyms should be written in lowercase
   - Naming should be descriptive and consistent in the context of the use of the folder
-  - Extensions are strongly discouraged and should be used for specific and documented purposes
+  - Extensions are strongly discouraged and should be used for specific used and documented purposes
   - use plural if folder contain many elements described by it's name
 
         folders tree example:
@@ -36,8 +36,10 @@ All naming practices in my new projects
   - Only with alphabetical and non accentuated letter
   - Never start with a number, number can start from the second letter
   - Start with a lowercase letter, except:
-    - Components folders** who start with an uppercase 
-    - 
+    - components, 
+    - models and
+    - other files for specific and documented purposes
+    who start with an uppercase 
   - Use snake case 🐍 if named with many words
   - Special characters are replaced with *dash* **-**
   - Initials and acronyms should be written in lowercase
